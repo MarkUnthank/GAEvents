@@ -1,7 +1,6 @@
 /**
  * Listen and send Events to analytics.js
- * @author Mark Unthank
- * @deps jQuery
+ * @author Mark Unthank / markunthank.co.uk / @alrightmark
  * @license MIT
 **/
 (function( $ ){
