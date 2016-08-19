@@ -17,7 +17,7 @@ Handle Google Analytics Event Tracking via data attributes in your HTML.
    data-ev="10">
 ```
 
-### Attributes
+### Available Attributes
 | Attribute | Field Name | Link   |
 | :------- | :---- | :--- |
 | data-ec | eventCategory |  [Google Documentation](https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference#eventCategory)    |
