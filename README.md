@@ -8,6 +8,15 @@ Handle Google Analytics Event Tracking via data attributes in your HTML.
 3. Populate the data-attributes on the HTML elements you wish to track
 4. Use on any `a` element, or add an `href` attribute to any other element and have the plugin treat it as an `a`.
 
+### Example Usage
+```
+<a href="/signup/confirm/" class="ga-track"
+   data-ec="Website Signups" 
+   data-ea="Confirmed Signup" 
+   data-el="Internal Form Submission" 
+   data-ev="10">
+```
+
 ### Attributes
 | Attribute | Field Name | Link   |
 | :------- | :---- | :--- |
