@@ -1,6 +1,6 @@
 # GAEvents
 
-Handle Google Analytics Event Tracking via data attributes in your HTML.
+Avoid the arduous process of using Google Tag Manager and Macros: handle Google Analytics Event Tracking via data attributes in your HTML.
 
 ### How to Use
 1. Include after you have instantiated the `ga( 'create' , 'UA-XXXX-Y' )` method.
